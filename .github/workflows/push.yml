@@ -5,6 +5,7 @@ on:
     - main 
 
 jobs:
+  build-and-deploy:
   deploy-page:
   runs-on: ubuntu-latest
   steps:
